@@ -114,7 +114,7 @@ a
 
 .index
   margin 0 auto
-  width 60%
+  width 65%
 
   .content
     display flex

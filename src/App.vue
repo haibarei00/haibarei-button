@@ -35,13 +35,13 @@ body
   background-attachment: fixed
   background-position: left, right, center
 
-@media only screen and (max-width 570px) and (prefers-color-scheme dark)
+@media only screen and (max-width 634px) and (prefers-color-scheme dark)
   body
     background-image: url('@/../static/img/rei_left.png'), url('@/../static/img/background_empty.png')
     background-size: cover
     background-position: left, center
 
-@media only screen and (max-width 570px) and (prefers-color-scheme light)
+@media only screen and (max-width 634px) and (prefers-color-scheme light)
   body
     background-image: url('@/../static/img/rei_left.png'), url('@/../static/img/background_empty.png')
     background-size: cover
