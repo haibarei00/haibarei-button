@@ -1,50 +1,33 @@
 {
-  "i18n": true,
-  "neko_mimi": true,
+  "i18n": false,
+  "neko_mimi": false,
   "name": {
     "CN": {
-      "title": "语音按钮",
-      "fullName": ""
-    },
-    "EN": {
-      "title": "Voives Button",
-      "fullName": ""
+      "title": "灰羽零按钮",
+      "fullName": "灰羽零语音按钮"
     }
   },
   "readme": "",
   "header": {
-    "icon": "img/logo.svg",
+    "icon": "img/header.jpg",
     "youtube": "",
     "twitter": "",
-    "bilibili": ""
+    "bilibili": "https://space.bilibili.com/3546593798129891"
   },
-  "related": [],
-  "link": [
-    {
-      "name": "Hiiro按钮",
-      "url": "https://hiiro.club/",
-      "background": "#F5C1BB"
-    },
-    {
-      "name": "七奈按钮",
-      "url": "https://kaguranana-button-blacktunes.vercel.app/",
-      "background": "#c4afd0"
-    }
-  ],
   "footer": {
     "author": [
       {
-        "name": "Blacktunes",
-        "url": "https://github.com/blacktunes"
+        "name": "介导鱼苗",
+        "url": ""
       }
     ],
     "info": [
       ""
     ],
-    "githubUrl": "https://github.com/blacktunes/voices-button"
+    "githubUrl": ""
   },
   "console": {
-    "text": "https://github.com/blacktunes/voices-button",
+    "text": "",
     "size": "",
     "color": "",
     "img": "",

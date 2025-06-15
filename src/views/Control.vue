@@ -156,7 +156,7 @@ const isPlaying = computed(() => playSetting.nowPlay ? 'pointer' : '')
 @media (prefers-color-scheme dark)
   .control
     background rgba(100, 100, 100, 0.7)
-
-    .playing
-      color #ddd
+    .wrapper
+      .playing
+        color $title-color-dark
 </style>

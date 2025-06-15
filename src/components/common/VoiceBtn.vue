@@ -210,4 +210,5 @@ defineExpose({ progress, lowlight, highlight })
   .wrapper
     .btn
       background $main-color-dark
+      color $btn-text-color-dark
 </style>

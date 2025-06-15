@@ -29,11 +29,23 @@ if (CONSOLE && (CONSOLE.text || CONSOLE.img)) {
 body
   margin 0
   -webkit-tap-highlight-color rgba(0, 0, 0, 0)
+  background-image: url('@/../static/img/rei_left.png'),  url('@/../static/img/rei_right.png'), url('@/../static/img/background_empty.png')
+  background-size: contain, contain, cover
+  background-repeat: no-repeat
+  background-attachment: fixed
+  background-position: left, right, center
 
-@media (prefers-color-scheme dark)
+@media only screen and (max-width 570px) and (prefers-color-scheme dark)
   body
-    background-color #555
-    transform translate3d(0, 0, 0)
+    background-image: url('@/../static/img/rei_left.png'), url('@/../static/img/background_empty.png')
+    background-size: cover
+    background-position: left, center
+
+@media only screen and (max-width 570px) and (prefers-color-scheme light)
+  body
+    background-image: url('@/../static/img/rei_left.png'), url('@/../static/img/background_empty.png')
+    background-size: cover
+    background-position: left, center
 
 a
   color #888
