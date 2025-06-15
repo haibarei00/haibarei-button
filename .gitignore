@@ -3,6 +3,8 @@ node_modules
 /dist
 /test
 
+/.history
+
 # local env files
 .env.local
 .env.*.local
@@ -21,3 +23,5 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+*.code-workspace
