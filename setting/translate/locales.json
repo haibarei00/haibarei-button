@@ -1,17 +1,17 @@
 {
   "zh-CN": {
     "info": {
-      "toGithub": "Github",
-      "notOfficial": "本站为爱好者作品，和官方没有关联"
+      "toGithub": "haibarei-button",
+      "notOfficial": "本站为爱好者作品 和官方没有关联"
     },
     "action": {
-      "randomplay": "帮我选一个",
+      "randomplay": "随机播放",
       "stopvoice": "停止",
       "overlap": "允许声音重叠",
       "overlapTip": "重叠播放开启中~",
-      "autoRandom": "播放不要停下来",
+      "autoRandom": "随机连播",
       "autoRandomTip": "随机连播开启中~",
-      "loop": "洗脑循环",
+      "loop": "循环",
       "loopTip_1": "单曲循环开启中~",
       "loopTip_2": "分类循环开启中~",
       "loopTip_3": "全部循环开启中~",

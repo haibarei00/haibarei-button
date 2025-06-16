@@ -1,5 +1,19 @@
 [
   {
+    "name": "！！对不起！",
+    "path": "！！对不起！.mp3",
+    "translate": {
+      "zh-CN": "！！对不起！"
+    },
+    "category": "猫猫声音",
+    "date": "2024年11月22日22点场",
+    "mark": {
+      "title": "【初配信】初次見面，你好，我是灰羽零",
+      "time": "19:30",
+      "url": "https://www.bilibili.com/video/BV14w4m1d7pM/"
+    }
+  },
+  {
     "name": "还很青涩的konreirei",
     "path": "konreirei1.mp3",
     "translate": {
@@ -8,34 +22,66 @@
     "category": "猫猫声音"
   },
   {
-    "name": "小猫叫声",
-    "path": "小猫叫声.mp3",
+    "name": "没问题哟~",
+    "path": "没问题哟~.mp3",
     "translate": {
-      "zh-CN": "小猫叫声"
+      "zh-CN": "没问题哟~"
     },
     "category": "猫猫声音"
   },
   {
-    "name": "诶？",
-    "path": "诶？.mp3",
+    "name": "没有这回事吧",
+    "path": "没有这回事吧.mp3",
     "translate": {
-      "zh-CN": "诶？"
+      "zh-CN": "没有这回事吧"
     },
     "category": "猫猫声音"
   },
   {
-    "name": "诶！！！",
-    "path": "诶！！！.mp3",
+    "name": "谁还要哇！（生气",
+    "path": "谁还要哇！（生气.mp3",
     "translate": {
-      "zh-CN": "诶！！！"
+      "zh-CN": "谁还要哇！（生气"
     },
     "category": "猫猫声音"
   },
   {
-    "name": "哭哭",
-    "path": "哭哭.mp3",
+    "name": "阿里嘎多",
+    "path": "阿里嘎多.mp3",
     "translate": {
-      "zh-CN": "哭哭"
+      "zh-CN": "阿里嘎多"
+    },
+    "category": "猫猫声音"
+  },
+  {
+    "name": "音调更高一些的阿里嘎多",
+    "path": "音调更高一些的阿里嘎多.mp3",
+    "translate": {
+      "zh-CN": "音调更高一些的阿里嘎多"
+    },
+    "category": "猫猫声音"
+  },
+  {
+    "name": "这该怎么办",
+    "path": "这该怎么办.mp3",
+    "translate": {
+      "zh-CN": "这该怎么办"
+    },
+    "category": "猫猫声音"
+  },
+  {
+    "name": "直播结束",
+    "path": "直播结束.mp3",
+    "translate": {
+      "zh-CN": "直播结束"
+    },
+    "category": "猫猫声音"
+  },
+  {
+    "name": "什么都没有！！（生气",
+    "path": "什么都没有！！（生气.mp3",
+    "translate": {
+      "zh-CN": "什么都没有！！（生气"
     },
     "category": "猫猫声音"
   }

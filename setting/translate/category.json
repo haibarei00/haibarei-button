@@ -3,7 +3,14 @@
     "name": "猫猫声音",
     "hide": false,
     "translate": {
-      "zh-CN": "猫猫声音"
+      "zh-CN": "猫猫声音！"
+    }
+  },
+  {
+    "name": "可爱动静",
+    "hide": false,
+    "translate": {
+      "zh-CN": "可爱动静！"
     }
   }
 ]

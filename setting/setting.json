@@ -7,7 +7,7 @@
       "fullName": "灰羽零语音按钮"
     }
   },
-  "readme": "Test",
+  "readme": "仅供测试使用！2025-06",
   "header": {
     "icon": "img/header.jpg",
     "youtube": "",
@@ -18,13 +18,13 @@
     "author": [
       {
         "name": "介导鱼苗",
-        "url": ""
+        "url": "https://space.bilibili.com/172888798"
       }
     ],
     "info": [
       ""
     ],
-    "githubUrl": ""
+    "githubUrl": "https://github.com/MediateFrystal/haibarei_button"
   },
   "console": {
     "text": "",
