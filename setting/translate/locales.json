@@ -1,8 +1,9 @@
 {
   "zh-CN": {
     "info": {
-      "toGithub": "haibarei-button",
-      "notOfficial": "本站为爱好者作品 和官方没有关联"
+      "toGithub": "MediateFrystal/haibarei-button",
+      "footerInfo1": "本站为2025灰羽零生日会作品",
+      "footerInfo2": "和官方没有关联"
     },
     "action": {
       "randomplay": "随机播放",

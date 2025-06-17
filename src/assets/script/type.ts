@@ -35,7 +35,8 @@ export enum EVENT {
 export enum INFO_I18N {
   title = 'info.title',
   toGithub = 'info.toGithub',
-  notOfficial = 'info.notOfficial',
+  footerInfo1 = 'info.footerInfo1',
+  footerInfo2 = 'info.footerInfo2',
   fullName = 'info.fullName',
   vtbbtn = 'vtbbtn',
   voiceTotal = 'voiceTotal',

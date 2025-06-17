@@ -29,7 +29,8 @@
           <IBtn class="btn" :url="githubUrl" :img="githubPng" />
           <a :href="githubUrl" target="_blank">{{ t(INFO_I18N.toGithub) }}</a>
         </div>
-        <div>{{ t(INFO_I18N.notOfficial) }}</div>
+        <div>{{ t(INFO_I18N.footerInfo1) }}</div>
+        <div>{{ t(INFO_I18N.footerInfo2) }}</div>
       </div>
     </div>
   </transition>
