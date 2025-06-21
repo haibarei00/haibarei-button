@@ -192,6 +192,7 @@ onMounted(() => {
     user-select none
     animation logo 1s
     animation-delay 0.5s
+    border-radius 50%
 
   .title
     color #FFF
