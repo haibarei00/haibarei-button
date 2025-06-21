@@ -12,5 +12,12 @@
     "translate": {
       "zh-CN": "可爱动静！"
     }
+  },
+  {
+    "name": "奇怪动静",
+    "hide": true,
+    "translate": {
+      "zh-CN": "奇怪动静？"
+    }
   }
 ]
