@@ -55,6 +55,7 @@
 
 <script lang="ts" setup>
 import Setting from '@/../setting/setting.json'
+import homePng from '@/assets/image/home-fill.png'
 import bilibiliPng from '@/assets/image/bilibili-fill.png'
 import twitterPng from '@/assets/image/twitter-fill.png'
 import youtubePng from '@/assets/image/youtube-fill.png'
@@ -68,6 +69,7 @@ import { useI18n } from 'vue-i18n'
 
 const HEADER: {
   icon?: string;
+  home?: string;
   youtube?: string;
   twitter?: string;
   bilibili?: string;
@@ -89,6 +91,10 @@ const onLogoClick = (logo: Ref<HTMLElement>) => {
 }
 
 const btnList = [
+  {
+    url: HEADER.home,
+    img: homePng
+  },
   {
     url: HEADER.youtube,
     img: youtubePng

@@ -10,9 +10,10 @@
   "readme": "据说点击左上角标题可以解锁隐藏语音？",
   "header": {
     "icon": "img/header.jpg",
+    "home": "https://haibarei.live",
     "youtube": "",
     "twitter": "",
-    "bilibili": "https://space.bilibili.com/3546593798129891"
+    "bilibili": ""
   },
   "footer": {
     "author": [
