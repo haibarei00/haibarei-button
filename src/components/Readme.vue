@@ -1,7 +1,7 @@
 <template>
   <Collapse title="README">
     <div class="text" v-if="README.length > 0" v-html="README"></div>
-    <img src="https://count.getloli.com/@test?theme=rule34" alt="test" />
+    <img src="https://count.getloli.com/@haibareicount?theme=rule34" alt="haibareicount" />
     <div class="text"></div>
     <div class="readme-icon">
       <div class="line" v-if="!playSetting.nowPlay">
