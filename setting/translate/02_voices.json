@@ -325,8 +325,7 @@
     "category": "可爱动静",
     "date": "2024-11-02",
     "mark": {
-      "title": "【直播回放】你必须看的直播 2024年11月02日23点场",
-      "url": "https://www.bilibili.com/video/BV1gyS1Y5Ex7"
+      "title": "【直播回放】你必须看的直播 2024年11月02日23点场"
     }
   },
   {
@@ -470,8 +469,7 @@
     "category": "可爱动静",
     "date": "2025-04-03",
     "mark": {
-      "title": "【直播回放】别教我打游戏 2025年04月03日19点场",
-      "url": "https://www.bilibili.com/video/BV1KsZUYPEPm/"
+      "title": "【直播回放】别教我打游戏 2025年04月03日19点场"
     }
   },
   {
@@ -496,6 +494,96 @@
     "date": "2025-04-03",
     "mark": {
       "title": "【直播回放】别教我打游戏 2025年04月03日19点场"
+    }
+  },
+  {
+    "name": "开水壶声音",
+    "path": "240628-开水壶声音.mp3",
+    "translate": {
+      "zh-CN": "开水壶声音"
+    },
+    "category": "可爱动静",
+    "date": "2024-06-28",
+    "mark": {
+      "title": "【直播回放】【拔谈】脑袋要被和智齿一起被拔掉了！！ 2024年06月28日23点场",
+      "url": "https://www.bilibili.com/video/BV1fM4m1m7LH/"
+    }
+  },
+  {
+    "name": "和au一起的可爱动静",
+    "path": "240825-和au一起的可爱动静.mp3",
+    "translate": {
+      "zh-CN": "和au一起的可爱动静"
+    },
+    "category": "可爱动静",
+    "date": "2024-08-25",
+    "mark": {
+      "title": "【切片】是被链在一起的超可爱的两人",
+      "url": "https://www.bilibili.com/video/BV1dQ4ueVEJr/"
+    }
+  },
+  {
+    "name": "小猫生气了",
+    "path": "241025-小猫生气了.mp3",
+    "translate": {
+      "zh-CN": "小猫生气了"
+    },
+    "category": "可爱动静",
+    "date": "2024-10-25",
+    "mark": {
+      "title": "【直播回放】【砸谈】我家桌子上有多少垃圾 2024年10月25日23点场"
+    }
+  },
+  {
+    "name": "蹭蹭",
+    "path": "241127-蹭蹭.mp3",
+    "translate": {
+      "zh-CN": "蹭蹭"
+    },
+    "category": "可爱动静",
+    "date": "2024-11-27",
+    "mark": {
+      "title": "【直播回放】【砸谈】小猫在雪天来给你送泡芙了 2024年11月27日22点场",
+      "url": "https://www.bilibili.com/video/BV1wuBZYqEyw/"
+    }
+  },
+  {
+    "name": "超凶的",
+    "path": "250117-超凶的.mp3",
+    "translate": {
+      "zh-CN": "超凶的"
+    },
+    "category": "可爱动静",
+    "date": "2025-01-17",
+    "mark": {
+      "title": "【直播回放】最会读空气的直播间 2025年01月17日19点场",
+      "url": "https://www.bilibili.com/video/BV1P5wcegEyC/"
+    }
+  },
+  {
+    "name": "打哈欠",
+    "path": "250125-打哈欠.mp3",
+    "translate": {
+      "zh-CN": "打哈欠"
+    },
+    "category": "可爱动静",
+    "date": "2025-01-25",
+    "mark": {
+      "title": "【切片】一场直播打八次哈欠",
+      "url": "https://www.bilibili.com/video/BV1pPFceFEAP/"
+    }
+  },
+  {
+    "name": "哈气",
+    "path": "250413-哈气.mp3",
+    "translate": {
+      "zh-CN": "哈气"
+    },
+    "category": "可爱动静",
+    "date": "2025-04-13",
+    "mark": {
+      "title": "【直播回放】什么？历史记录会被看到？！ 2025年04月13日20点场",
+      "url": "https://www.bilibili.com/video/BV1PBdkYVEZ8/"
     }
   }
 ]
